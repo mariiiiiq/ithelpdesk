@@ -1,0 +1,21 @@
+th, thead, .c{
+    text-align: center;
+}
+.bgviolet{
+    background-color: #8b42d4;
+}
+.text-white{
+    color: #FFF;
+}
+.primary{
+color: #2a4c99;
+}
+.alert{
+    text-align: center;
+}
+.aa{
+    margin: auto;
+}
+.delete{
+    padding:20px 20px;
+}
